@@ -6,7 +6,17 @@ public class UserName {
 	System.out.println("User Name");
 
 	}
-	public static void main(String[] args) {
-		userName();
-	}
+
+	
+public static void password() {
+System.out.println("User Name");
+
+}
+
+public static void main(String[] args) {
+	userName();
+	password();
+	
+}
+
 }
